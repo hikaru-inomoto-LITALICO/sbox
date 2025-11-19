@@ -1,5 +1,5 @@
 ---
-name: ":wrench: 開発"
+name: "\U1F527開発"
 about: かいはつ
 title: ''
 labels: ''
